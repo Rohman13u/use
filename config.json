@@ -1,0 +1,12 @@
+{
+  "ownerNumber": ["6285878105774@s.whatsapp.net"],
+  "ownerName": ["V"],
+  "botName": "Ova Botz",
+  "footer": "Ova",
+  "sessionName": "session",
+  "pathimg": "./media/baymax.jpg",
+  "sticker": {
+        "packname": "Created By",
+        "author": "V"
+    }
+}
